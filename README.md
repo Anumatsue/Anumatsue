@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Backend Web Development]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Backend Developer** with experience in **Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Backend Web Development at Alx Africa]**
 - 🔭 Working on: **[Skill Development]**
