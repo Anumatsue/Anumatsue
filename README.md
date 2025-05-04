@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm [Paschal Ebitse]! 👋
 
-<!--
-**Anumatsue/Anumatsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[Backend Web Development]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[Backend Web Development at Alx Africa]**
+- 🔭 Working on: **[Skill Development]**
+- 🌍 Languages: **[Python and SQL]**
+- 📫 How to reach me: **[solidpaska@gmail.com]**
+- ⚡ Fun fact: **[I love watching football]**
+
+## My Skills 🧠
+
+
+## Featured Projects 💻
+
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(https://t.co/EvEz20jHVs)
+- **[LinkedIn]**(www.linkedin.com/in/paschal-ebitse-msc-r-eng-mnse-2472ba86)
+- **[Twitter]**(https://x.com/PEbitse25822))
+
+
