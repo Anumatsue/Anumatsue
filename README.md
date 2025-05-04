@@ -1,4 +1,4 @@
-# Hi there, I'm [Paschal Ebitse]! 👋
+# Hi there, I'm Paschal Ebitse! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
